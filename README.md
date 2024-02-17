@@ -8,5 +8,3 @@ Under the auspices of the NovaScience Grant, I conducted research and developed 
 **Image Classification**
 https://github.com/dbal0503/DermatologyClassifier
 
-**Video Classification**
-https://github.com/dbal0503/SoccerVideoClassifier
